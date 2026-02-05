@@ -21,7 +21,8 @@ It helps analyze sales performance across regions, categories, and time periods.
 - Applied aggregations and distinct counts
 
 ## 📷 Dashboard Preview
-(Add screenshot here)
+![Dashboard Preview](dashboard.png)
+
 
 ## 🎯 Key Insights
 - Identified top-performing regions
@@ -31,3 +32,4 @@ It helps analyze sales performance across regions, categories, and time periods.
 ## 👩‍💻 Author
 Sony Dasari  
 Final Year B.Tech (CSE)
+
